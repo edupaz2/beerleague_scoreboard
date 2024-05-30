@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="horn0.mp3">Boston Bruins 2024 Goal Horn 🚨.mp3</file>
+        <file alias="intro2.mp3">Total Recall (1990) Opening Credits HD.mp3</file>
+        <file alias="horn2.mp3">Calgary Flames 2024 Goal Horn 🚨.mp3</file>
+        <file alias="horn3.mp3">Chicago Blackhawks 2024 Goal Horn🚨.mp3</file>
+        <file alias="intro3.mp3">Franz Ferdinand - Take Me Out (Video).mp3</file>
+        <file alias="intro1.mp3">Let's Get Ready To Rumble -  Jock Jams Remix.mp3</file>
+        <file alias="horn1.mp3">New York Islanders 2024 Goal Horn 🚨.mp3</file>
+        <file alias="intro0.mp3">The Hockey Song.mp3</file>
+    </qresource>
+</RCC>
